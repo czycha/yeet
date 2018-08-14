@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "transform-object-rest-spread",
+        "transform-function-bind"
+    ],
+    "presets": [
+        "env"
+    ]
+}
